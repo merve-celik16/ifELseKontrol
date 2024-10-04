@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ifELseKontrol", "ifELseKontrol\ifELseKontrol.csproj", "{5C36243D-6847-4415-AF34-937E807A6ADB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C36243D-6847-4415-AF34-937E807A6ADB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C36243D-6847-4415-AF34-937E807A6ADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C36243D-6847-4415-AF34-937E807A6ADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C36243D-6847-4415-AF34-937E807A6ADB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A86378D-C239-4345-833A-9717F19AF541}
+	EndGlobalSection
+EndGlobal
